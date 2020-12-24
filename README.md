@@ -2,6 +2,7 @@
 #Votingchecker is program where we can check the age of voter either he/she eligible for vote or not.
 
 
+
 import java.util.Scanner;
 public class votingchecker {
 
