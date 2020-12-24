@@ -9,6 +9,7 @@ public class votingchecker {
 		// TODO Auto-generated method stub
   
 		Scanner a = new Scanner(System.in);
+		System.out.println("Enter your Name:- ");
 		String name = a.nextLine();
 		System.out.println("Hii"+ " "+ name );
 		System.out.println("Enter your Email id:-" );
